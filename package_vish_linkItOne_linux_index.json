@@ -11,15 +11,15 @@
         {
           "name": "LinkItOneLinuxArduino",
           "architecture": "arm",
-          "version": "1.1.17",
+          "version": "1.1.23",
           "category": "Contributed",
           "help": {
             "online": "http://labs.mediatek.com/forums/forums/show/11.page"
           },
-          "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.17.zip",
-          "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.17.zip",
-          "checksum": "SHA-256:4fffdc3be87c358a9bc1a59bb9e5a38dd2de495d1c378268bb861b5be830aba7",
-          "size": "750135",
+          "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.23.zip",
+          "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.23.zip",
+          "checksum": "SHA-256:36452fa39473c12cc4974a86bc0f3ab33d04eba85f32a3dc1297866fd0a61872",
+          "size": "751040",
           "boards": [
             {"name": "LinkIt ONE"}
           ],
@@ -32,7 +32,7 @@
             {
               "packager": "LinkItOneLinuxArduino",
               "name": "linkit_tools",
-              "version": "1.1.17"
+              "version": "1.1.23"
             }
           ]
         }
@@ -74,21 +74,21 @@
         },
         {
           "name": "linkit_tools",
-          "version": "1.1.17",
+          "version": "1.1.23",
           "systems": [
             {
               "host": "i686-mingw32",
-              "archiveFileName": "mediatek_linkit_sdk_tool_windows-1.1.17.zip",
-              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_windows-1.1.17.zip",
-              "checksum": "SHA-256:dd7df756143d368b7645580f561f8a04f0b21431a12ae0bbcedc96a967597152",
-              "size": "16372292"
+              "archiveFileName": "mediatek_linkit_sdk_tool_windows-1.1.23.zip",
+              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_windows-1.1.23.zip",
+              "checksum": "SHA-256:82ce1d4a7a90737501d9a25ded6401d468ccd837b41b6f96c1e184cafd76705e",
+              "size": "16374062"
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "mediatek_linkit_sdk_tool_osx-1.1.17.tar.gz",
-              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_osx-1.1.17.tar.gz",
-              "checksum": "SHA-256:de53967e4a2270f80ff2f3b48192b8bc09c79558bcaa2c4dd06c3933956f2e2c",
-              "size": "16408710"
+              "archiveFileName": "mediatek_linkit_sdk_tool_osx-1.1.23.tar.gz",
+              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_osx-1.1.23.tar.gz",
+              "checksum": "SHA-256:3d5d72d937255f69692cf18cfc829125e9583c2ed3058bb47cff973ceebfdec6",
+              "size": "16410334"
             },
             {
               "host":"x86_64-pc-linux-gnu",
